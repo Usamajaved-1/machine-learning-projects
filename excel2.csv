@@ -1,0 +1,101 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,Applicant_Income,Loan_Amount,Loan_Amount_Term
+LP000,Female,Yes,2,Not Graduate,No,7353,665,12
+LP001,Male,Yes,1.0,Graduate,No,5971,347,360
+LP002,Female,Yes,3,Graduate,Yes,3110,485,240
+LP003,Male,No,1,Not Graduate,No,6020,335,36
+LP004,Female,No,1,Not Graduate,No,7812,344,36
+LP005,Male,Yes,2.5,Graduate,No,4103,376,120
+LP006,Male,No,nan,Not Graduate,No,6975,313,240
+LP007,Female,No,0,Graduate,Yes,2742,317,12
+LP008,Male,Yes,1,Graduate,No,4892,116,36
+LP009,Male,No,2,Not Graduate,No,1628,302,360
+LP0010,Male,Yes,None,Not Graduate,No,2193,465,12
+LP0011,Male,No,1.0,Graduate,No,1620,409,60
+LP0012,Female,Yes,1.0,Graduate,Yes,6885,264,240
+LP0013,Female,Yes,0,Not Graduate,No,6525,377,60
+LP0014,Female,No,1.0,Not Graduate,Yes,4325,591,120
+LP0015,Female,Yes,2.5,Not Graduate,Yes,3331,546,120
+LP0016,Female,Yes,0,Not Graduate,No,2245,265,360
+LP0017,Male,Yes,2.5,Not Graduate,No,2322,411,240
+LP0018,Male,No,2,Graduate,Yes,7563,602,120
+LP0019,Male,Yes,2,Graduate,No,7350,631,60
+LP0020,Female,Yes,1,Graduate,Yes,2761,525,36
+LP0021,Male,Yes,1,Not Graduate,No,7841,169,120
+LP0022,Male,No,None,Not Graduate,No,5624,139,36
+LP0023,Female,No,nan,Not Graduate,No,6225,206,240
+LP0024,Male,Yes,0,Not Graduate,Yes,4087,107,120
+LP0025,Female,No,None,Not Graduate,Yes,7522,177,240
+LP0026,Female,No,1.0,Graduate,No,5916,698,120
+LP0027,Male,No,nan,Graduate,No,4706,424,36
+LP0028,Female,No,1,Graduate,No,6381,419,240
+LP0029,Male,No,1,Not Graduate,No,5707,327,60
+LP0030,Male,No,None,Not Graduate,Yes,3175,569,36
+LP0031,Male,Yes,2,Graduate,No,4188,462,12
+LP0032,Female,Yes,2,Not Graduate,Yes,6254,284,12
+LP0033,Male,No,None,Not Graduate,Yes,4419,544,36
+LP0034,Male,No,2,Graduate,No,4760,178,360
+LP0035,Female,Yes,nan,Graduate,Yes,7646,699,360
+LP0036,Male,Yes,2,Not Graduate,Yes,2959,457,360
+LP0037,Female,Yes,None,Graduate,Yes,6450,334,240
+LP0038,Female,No,None,Not Graduate,Yes,4367,258,120
+LP0039,Male,No,nan,Graduate,Yes,3259,387,120
+LP0040,Female,No,1,Graduate,Yes,3968,243,120
+LP0041,Female,Yes,2,Graduate,Yes,7279,241,240
+LP0042,Female,Yes,1.0,Graduate,Yes,6957,108,36
+LP0043,Male,Yes,2.5,Graduate,No,2202,433,240
+LP0044,Female,No,1.0,Graduate,Yes,4010,507,120
+LP0045,Female,No,0,Not Graduate,Yes,2342,547,360
+LP0046,Female,Yes,nan,Graduate,Yes,4450,397,120
+LP0047,Male,Yes,2,Not Graduate,Yes,3018,622,12
+LP0048,Female,Yes,nan,Graduate,No,2881,419,240
+LP0049,Male,Yes,2.5,Graduate,Yes,7844,693,36
+LP0050,Female,No,2,Not Graduate,Yes,3802,217,36
+LP0051,Male,Yes,1,Not Graduate,No,4938,422,36
+LP0052,Female,Yes,1,Graduate,No,6936,161,240
+LP0053,Female,Yes,2,Not Graduate,Yes,3665,649,360
+LP0054,Female,No,3,Graduate,Yes,5560,100,240
+LP0055,Female,Yes,0,Not Graduate,No,7660,365,12
+LP0056,Female,No,None,Graduate,Yes,4653,451,360
+LP0057,Male,Yes,nan,Graduate,Yes,6876,487,120
+LP0058,Female,Yes,2.5,Not Graduate,Yes,3959,385,60
+LP0059,Male,Yes,1,Graduate,Yes,1858,184,60
+LP0060,Male,No,nan,Not Graduate,Yes,1679,475,60
+LP0061,Male,Yes,2,Graduate,Yes,2485,467,360
+LP0062,Female,Yes,0,Graduate,No,6745,612,60
+LP0063,Male,No,3,Not Graduate,No,5019,431,360
+LP0064,Male,No,0,Not Graduate,No,4281,487,12
+LP0065,Male,Yes,0,Not Graduate,No,5541,379,12
+LP0066,Female,No,1.0,Graduate,Yes,4391,686,36
+LP0067,Female,Yes,1,Not Graduate,Yes,3211,642,12
+LP0068,Male,No,2.5,Not Graduate,Yes,5540,699,12
+LP0069,Male,No,3,Not Graduate,No,4883,208,360
+LP0070,Female,Yes,nan,Not Graduate,Yes,5292,351,360
+LP0071,Male,No,2.5,Not Graduate,No,6518,606,12
+LP0072,Female,No,1,Not Graduate,No,7111,361,12
+LP0073,Female,No,None,Graduate,No,4384,301,60
+LP0074,Male,Yes,3,Graduate,No,5886,604,120
+LP0075,Male,Yes,2.5,Not Graduate,Yes,5715,130,12
+LP0076,Male,Yes,0,Not Graduate,No,7575,612,36
+LP0077,Male,Yes,2.5,Graduate,Yes,2040,162,360
+LP0078,Female,Yes,2.5,Graduate,No,7683,595,120
+LP0079,Female,No,1.0,Graduate,No,3424,349,360
+LP0080,Female,No,None,Not Graduate,No,6661,109,12
+LP0081,Female,Yes,2,Graduate,No,6062,642,36
+LP0082,Female,No,None,Graduate,No,7850,246,240
+LP0083,Male,No,2.5,Not Graduate,Yes,3808,562,36
+LP0084,Female,Yes,2.5,Graduate,No,4388,453,60
+LP0085,Male,No,nan,Graduate,No,7539,104,360
+LP0086,Male,No,3,Graduate,No,7826,227,360
+LP0087,Male,Yes,2,Graduate,Yes,3822,226,36
+LP0088,Female,Yes,None,Not Graduate,No,2808,179,60
+LP0089,Female,No,2,Not Graduate,No,5027,374,240
+LP0090,Female,Yes,nan,Graduate,No,4130,300,12
+LP0091,Male,No,nan,Graduate,No,1606,391,120
+LP0092,Male,No,nan,Graduate,No,3634,270,12
+LP0093,Female,Yes,nan,Graduate,No,6589,664,240
+LP0094,Male,No,nan,Not Graduate,No,4287,615,12
+LP0095,Female,No,nan,Not Graduate,Yes,6496,609,60
+LP0096,Male,No,nan,Not Graduate,No,2444,419,36
+LP0097,Female,No,nan,Graduate,Yes,2517,314,360
+LP0098,Female,Yes,nan,Not Graduate,No,1809,309,12
+LP0099,Male,Yes,nan,Not Graduate,No,2419,492,360

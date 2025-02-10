@@ -1,0 +1,134 @@
+population data
+take whole data at once 
+ and sample data 
+take some dat afrom population data
+what is statistics?
+mathematicals and tolls that enable us to retrive important information 
+divided into two categories :
+ dcriptive:
+retrive information from the whole data ss attach
+infresntial :
+work on sample data from the population 
+next on jupyter notebook
+
+course outline
+
+2:37 Population and Sample Data
+6:00 STATISTICS ( Descriptive & Inferential )
+16:59 Measure of central Tendency
+43:31 Measures of Variability
+1:15:05 Percentage, Percentiles and Quartiles
+1:38:55 Measures of Shapes
+1:56:46 Probability
+2:09:45 Probability Distribution & Functions
+2:26:55 Normal Distribution
+2:31:18 Covariance and Correlation
+2:53:32 Central Limit Theorem
+3:11:04 Hypothesis Testing
+3:25:05 Hypothesis Testing PRACTICAL
+3:39:51 Z TEST & T TEST PART-1
+4:15:35 Z TEST & T TEST PART-2
+4:51:36 CHI SQUARE TEST
+5:16:06 What is MACHINE LEARNING
+5:31:28 COMPLETE ROADMAP TO LEARN MACHINE LEARNING
+5:40:24 Types of Variables in MACHINE LEARNING
+5:52:27 DATA CLEANING
+5:58:41 What is MISSING VALUES & How to Find it
+6:19:39 HANDLING MISSING VALUES ( DROPPING )
+6:29:13 HANDLING MISSING VALUES ( IMPUTING CATEGORY DATA )
+6:47:56 ONE HOT ENCODING & DUMMY VARIABLES
+7:03:16 LABEL ENCODING
+7:12:05 ORDINAL ENCODING
+7:26:03 OUTLIER
+7:38:31 OUTLIER REMOVAL using IQR
+7:51:26 OUTLIER REMOVAL using Z-SCORE
+8:10:26 FEATURE SCALING ( STANDARDIZATION )
+8:30:30 FEATURE SCALING ( NORMALIZATION )
+8:41:07 HANDLING DUPLICATE DATA
+8:52:57 REPLACE & DATA TYPE CHANGE
+9:01:49 FUNCTION TRANSFORMER
+9:19:29 FEATURE SELECTION TECHNIQUES
+9:22:43 	FORWARD ELIMINATION
+9:26:45 	BACKWARD ELIMINATION
+9:33:54 TRAIN-TEST SPLIT DATASET
+9:44:56 REGRESSION ANALYSIS
+9:49:02 LINEAR REGRESSION ALGORITHM ( SIMPLE LINEAR )
+9:59:25 LINEAR REGRESSION ALGORITHM ( SIMPLE LINEAR ) PRACTICAL
+10:25:27 MULTIPLE LINEAR REGRESSION
+10:46:11 POLYNOMIAL REGRESSION
+11:06:55 What is COST FUNCTION
+1:11:28 TYPES of COST FUNCTION
+11:13:26 REGRESSION COST FUNCTION
+11:15:56 MEAN SQUARED ERROR
+11:23:18 MEAN ABSOLUTE ERROR
+11:27:58 ROOT MEAN SQUARED ERROR
+11:28:45 Best Fit Line ( How to find best fit line )
+11:42:55 Regularization
+                 L1 ( Lasso Regularization )
+                 L2 ( Ridge Regularization )
+11:45:46 L1 or Lasso Regularization Technique
+11:50:35 L2 or Ridge Regularization Technique
+11:53:59 L1 and L2 Regularization PRACTICAL
+12:16:17 Classification Algorithm
+12:26:15 Logistic Regression ( Binary Classification ) ( Single Input ) PRACTICAL
+12:47:37 Logistic Regression ( Binary Classification ) ( Multiple Input ) PRACTICAL
+13:00:09 Logistic Regression ( Binary Classification ) ( Polinomial Input ) PRACTICAL
+13:12:52 Logistic Regression ( Multiclass Classification ) PRACTICAL
+13:29:07 Confusion Matrix
+13:51:22 Confusion Matrix ( Sensitivity, Precision, Recall and F1-Score )
+14:43:26 Naive Bayes & Conditional Probability
+15:05:33 Naive Bayes PRACTICAL
+15:19:10 Decision Tree ( Regression )
+15:41:47 Decision Tree Classification PRACTICAL
+16:04:03 Pre and Post Pruning ( Decision Tree )
+16:15:06 Decision Tree Regression
+16:28:41 K-Nearest Neighbours ( Classification)
+17:05:53 Support Vector Machines ( Classification )
+17:27:13 Support Vector Machines ( Classification ) PRACTICAL
+17:42:46 Support Vector Machines ( REGRESSION )
+17:57:58 Hyperparameter - Tuning, Model Parameter
+18:12:12 Hyperparameter Tuning PRACTICAL
+18:25:50 Cross-Validation ( In Machine Learning)
+18:34:09 K-Fold Cross-Validation Method
+18:37:10 Startified K-Fold Cross-Validation Method
+18:40:21 Leave-One-Out Cross-Validation Method 
+18:42:28 Leave-P-Out Cross-Validation Method
+18:43:56 Cross-Validation PRACTICAL
+18:55:47 UNSUPERVISED LEARNING
+19:02:35 K-Means Clustering
+19:20:58 K-Means Clustering PRACTICAL
+20:02:04 Agglomerative Hierarchical PRACTICAL
+20:16:35 DBSCAN Clusturing Algorithm
+20:26:31 DBSCAN Clusturing Algorithm PRACTICAL
+20:36:29 SILHOUETTE SCORE
+20:54:15 Association Rule LEARNING
+21:11:15 Apriori Algorithm ( Association Rule LEARNING )
+21:26:18 Apriori Algorithm ( Association Rule LEARNING ) PRACTICAL
+21:52:19 Frequent Pattern Growth Algorithm ( Association Rule LEARNING )
+22:07:50 Frequent Pattern Growth Algorithm ( Association Rule LEARNING ) PRACTICAL
+22:16:57 Ensemble Learning
+22:24:29 Max Voting, Averaging and Weighted Average Voting
+22:34:08 Max Voting, Averaging and Weighted Average Voting ( CLASSIFICATION PRACTICAL )
+22:51:14 Max Voting, Averaging & Weighted Average Voting ( REGRESSION PRACTICAL)
+23:02:30 BAGGING ( BAGGING META-ESTIMATOR RANDOM FOREST )
+23:11:08 BAGGING ( BAGGING META-ESTIMATOR RANDOM FOREST ) PRACTICAL
+23:20:36 BAGGING ( BAGGING META-ESTIMATOR RANDOM FOREST ) REGRESSION PRACTICAL
+23:25:51 What is Deep Learning
+23:36:37 What is Neuron and Neural Networks
+23:43:01 Types of Deep Learning Networks
+23:44:41 Single Layer PERCEPTRON
+23:53:56 Working of PERCEPTRON
+24:04:40 Multilayer PERCEPTRON and Notation ( ANN )
+24:15:06 Forward and Backward Propagation
+24:39:10 Activation Function for Neural Networks
+24:51:25 LOSS FUNCTIONS 
+25:15:08 OPTIMIZER in Neural Network
+25:23:26 CUSTOMER CHURN Prediction using ANN
+25:43:44 Improve The Performance of a Neural Network
+25:50:42 Identify Overfitting in Deep Learning ( EARLY STOPPING and REGULARISATION)
+26:14:25 BATCH NORMALIZATION
+26:23:06 DROPOUT LAYER
+26:38:13 VANISHING GRADIENT PROBLEM
+26:46:45 HYPERPARAMETER TUNING
+26:58:42 CONVOLUTIONAL Neural Network
+27:26:58 CONVOLUTIONAL Neural Network PRACTICAL
